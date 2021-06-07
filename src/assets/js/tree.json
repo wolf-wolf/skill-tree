@@ -1,0 +1,45 @@
+{
+    "name": "前端技能树",
+    "children": [
+        {
+            "name": "框架",
+            "children": null,
+            "_collapsed": true,
+            "_children": [
+                {
+                    "name": "react",
+                    "familiar": 0.4,
+                    "children": null,
+                    "_collapsed": true,
+                    "_children": [
+                    ]
+                },
+                {
+                    "name": "vue 2.x",
+                    "familiar": 0.6,
+                    "children": null,
+                    "_collapsed": true,
+                    "_children": [
+                    ]
+                },
+                {
+                    "name": "vue 3.x",
+                    "familiar": 0.1,
+                    "children": null,
+                    "_collapsed": true,
+                    "_children": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "理论",
+            "children": [
+            ],
+            "_collapsed": false,
+            "_children": null
+        }
+    ],
+    "_collapsed": false,
+    "_children": null
+}

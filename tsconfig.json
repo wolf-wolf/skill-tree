@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "./built/",
+        "sourceMap": true,
+        "strict": false,
+        "noImplicitReturns": true,
+        "module": "es2017",
+        "moduleResolution": "node",
+        "target": "es6"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
